@@ -1,7 +1,7 @@
 import accounts 
 import transactions
 
-accounts.createAccount(101,"amal",1000)
+accounts.createAccount(101,"sai",1000)
 
 transactions.deposit(101,500)
 
